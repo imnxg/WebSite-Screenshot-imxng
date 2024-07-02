@@ -1,0 +1,310 @@
+{
+    "data": [
+        {
+            "site": "github.com",
+            "data": [
+                {
+                    "data": [
+                        "save/github.com/2023-08-07_14-05-35.png"
+                    ],
+                    "lasted": "save/github.com/9b4edcba09e4a30385d10d5c0c24e850.png",
+                    "details": {
+                        "url": "https://github.com/BarryYangi",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "9b4edcba09e4a30385d10d5c0c24e850"
+                }
+            ],
+            "rules": [
+                "9b4edcba09e4a30385d10d5c0c24e850"
+            ],
+            "lasted": "save/github.com/9b4edcba09e4a30385d10d5c0c24e850.png",
+            "raw_lasted": "save/github.com/2023-08-12_00-24-49.png"
+        },
+        {
+            "site": "digu.yct.ee",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/digu.yct.ee/84ae5b5950b83d9201c2a8d8cdb95bce.png",
+                    "details": {
+                        "url": "https://digu.yct.ee/",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "84ae5b5950b83d9201c2a8d8cdb95bce"
+                }
+            ],
+            "rules": [
+                "84ae5b5950b83d9201c2a8d8cdb95bce"
+            ],
+            "lasted": "save/digu.yct.ee/84ae5b5950b83d9201c2a8d8cdb95bce.png",
+            "raw_lasted": "save/digu.yct.ee/2023-08-12_00-25-05.png"
+        },
+        {
+            "site": "www.barryi.me",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/www.barryi.me/02549a124318fd9a2fc99c181cc617af.png",
+                    "details": {
+                        "url": "https://www.barryi.me/site/census/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "02549a124318fd9a2fc99c181cc617af"
+                }
+            ],
+            "rules": [
+                "02549a124318fd9a2fc99c181cc617af"
+            ],
+            "lasted": "save/www.barryi.me/02549a124318fd9a2fc99c181cc617af.png",
+            "raw_lasted": "save/www.barryi.me/2023-08-12_00-26-56.png"
+        },
+        {
+            "site": "www.youtube.com",
+            "data": [
+                {
+                    "rule": "495ba70fb44e36a1800708dd84de5309",
+                    "data": [],
+                    "lasted": "save/www.youtube.com/495ba70fb44e36a1800708dd84de5309.png",
+                    "details": {
+                        "url": "https://www.youtube.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 2
+                    }
+                },
+                {
+                    "data": [
+                        "save/www.youtube.com/2024-06-23_01-11-54.png",
+                        "save/www.youtube.com/2024-06-24_01-09-42.png",
+                        "save/www.youtube.com/2024-06-25_01-07-30.png",
+                        "save/www.youtube.com/2024-06-26_01-07-57.png",
+                        "save/www.youtube.com/2024-06-27_01-08-07.png",
+                        "save/www.youtube.com/2024-06-28_01-08-18.png",
+                        "save/www.youtube.com/2024-06-29_01-06-57.png",
+                        "save/www.youtube.com/2024-06-30_01-13-40.png",
+                        "save/www.youtube.com/2024-07-01_01-15-44.png",
+                        "save/www.youtube.com/2024-07-02_01-08-38.png"
+                    ],
+                    "lasted": "save/www.youtube.com/495a49e05358bf297692af3ecb006a89.png",
+                    "details": {
+                        "url": "https://www.youtube.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 10,
+                        "full_page": 2
+                    },
+                    "rule": "495a49e05358bf297692af3ecb006a89"
+                }
+            ],
+            "rules": [
+                "495ba70fb44e36a1800708dd84de5309",
+                "495a49e05358bf297692af3ecb006a89"
+            ],
+            "lasted": "save/www.youtube.com/495a49e05358bf297692af3ecb006a89.png",
+            "raw_lasted": "save/www.youtube.com/2024-07-02_01-08-38.png"
+        },
+        {
+            "site": "netlify.yct.ee",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/netlify.yct.ee/3e7a1b48e9b9082f4c00d1b5ce803ad5.png",
+                    "details": {
+                        "url": "https://netlify.yct.ee/",
+                        "timeout": 15,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "3e7a1b48e9b9082f4c00d1b5ce803ad5"
+                }
+            ],
+            "rules": [
+                "3e7a1b48e9b9082f4c00d1b5ce803ad5"
+            ],
+            "lasted": "save/netlify.yct.ee/3e7a1b48e9b9082f4c00d1b5ce803ad5.png",
+            "raw_lasted": "save/netlify.yct.ee/2023-08-12_00-27-28.png"
+        },
+        {
+            "site": "ward.smitten.top",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/ward.smitten.top/ff6b569dc2cf6721596a5caf4b3563e9.png",
+                    "details": {
+                        "url": "https://ward.smitten.top/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "ff6b569dc2cf6721596a5caf4b3563e9"
+                }
+            ],
+            "rules": [
+                "ff6b569dc2cf6721596a5caf4b3563e9"
+            ],
+            "lasted": "save/ward.smitten.top/ff6b569dc2cf6721596a5caf4b3563e9.png",
+            "raw_lasted": "save/ward.smitten.top/2023-08-12_00-28-51.png"
+        },
+        {
+            "site": "run.yct.ee",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/run.yct.ee/71ef7a6d60155bb276909b13fc33fccc.png",
+                    "details": {
+                        "url": "https://run.yct.ee/",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 0
+                    },
+                    "rule": "71ef7a6d60155bb276909b13fc33fccc"
+                }
+            ],
+            "rules": [
+                "71ef7a6d60155bb276909b13fc33fccc"
+            ],
+            "lasted": "save/run.yct.ee/71ef7a6d60155bb276909b13fc33fccc.png",
+            "raw_lasted": "save/run.yct.ee/2023-08-12_00-29-17.png"
+        },
+        {
+            "site": "uptime.yct.ee",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/uptime.yct.ee/dd4f9b62b4b6c25cdc6c7abac419a803.png",
+                    "details": {
+                        "url": "https://uptime.yct.ee/status/i",
+                        "timeout": 10,
+                        "real_time_out": 10,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 1
+                    },
+                    "rule": "dd4f9b62b4b6c25cdc6c7abac419a803"
+                }
+            ],
+            "rules": [
+                "dd4f9b62b4b6c25cdc6c7abac419a803"
+            ],
+            "lasted": "save/uptime.yct.ee/dd4f9b62b4b6c25cdc6c7abac419a803.png",
+            "raw_lasted": "save/uptime.yct.ee/2023-08-12_00-29-52.png"
+        },
+        {
+            "site": "www.fast.com",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/www.fast.com/5be0d4bdb8175fccf407a9f2b9ba7efe.png",
+                    "details": {
+                        "url": "https://www.fast.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 2
+                    },
+                    "rule": "5be0d4bdb8175fccf407a9f2b9ba7efe"
+                }
+            ],
+            "rules": [
+                "5be0d4bdb8175fccf407a9f2b9ba7efe"
+            ],
+            "lasted": "save/www.fast.com/5be0d4bdb8175fccf407a9f2b9ba7efe.png",
+            "raw_lasted": "save/www.fast.com/2023-08-12_00-30-00.png"
+        },
+        {
+            "site": "www.google.com",
+            "data": [
+                {
+                    "data": [],
+                    "lasted": "save/www.google.com/c5b0e0f3e02a5be4cfdfbd154761f39a.png",
+                    "details": {
+                        "url": "https://www.google.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 30,
+                        "full_page": 2
+                    },
+                    "rule": "c5b0e0f3e02a5be4cfdfbd154761f39a"
+                },
+                {
+                    "data": [
+                        "save/www.google.com/2024-06-23_01-11-43.png",
+                        "save/www.google.com/2024-06-24_01-09-33.png",
+                        "save/www.google.com/2024-06-25_01-07-22.png",
+                        "save/www.google.com/2024-06-26_01-07-46.png",
+                        "save/www.google.com/2024-06-27_01-07-59.png",
+                        "save/www.google.com/2024-06-28_01-08-09.png",
+                        "save/www.google.com/2024-06-29_01-06-49.png",
+                        "save/www.google.com/2024-06-30_01-13-31.png",
+                        "save/www.google.com/2024-07-01_01-15-35.png",
+                        "save/www.google.com/2024-07-02_01-08-30.png"
+                    ],
+                    "lasted": "save/www.google.com/7b605dc5fec3913101062a274a930cf1.png",
+                    "details": {
+                        "url": "https://www.google.com",
+                        "timeout": 10,
+                        "real_time_out": 5,
+                        "height": 1080,
+                        "width": 1920,
+                        "daydel": 10,
+                        "full_page": 2
+                    },
+                    "rule": "7b605dc5fec3913101062a274a930cf1"
+                }
+            ],
+            "rules": [
+                "c5b0e0f3e02a5be4cfdfbd154761f39a",
+                "7b605dc5fec3913101062a274a930cf1"
+            ],
+            "lasted": "save/www.google.com/7b605dc5fec3913101062a274a930cf1.png",
+            "raw_lasted": "save/www.google.com/2024-07-02_01-08-30.png"
+        }
+    ],
+    "sites": [
+        "github.com",
+        "digu.yct.ee",
+        "www.barryi.me",
+        "www.youtube.com",
+        "netlify.yct.ee",
+        "ward.smitten.top",
+        "run.yct.ee",
+        "uptime.yct.ee",
+        "www.fast.com",
+        "www.google.com"
+    ]
+}
