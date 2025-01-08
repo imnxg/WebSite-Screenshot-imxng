@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://github.com/imynxg",
+    "timeout": 10,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 1
+  },
+  {
+    "url": "https://github.com/mynxg",
+    "timeout": 10,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 1
+  },
+  {
+    "url": "https://blog.nnxx.me",
+    "timeout": 15,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 0
+  },
+  {
+    "url": "https://weekly.nnxx.me",
+    "timeout": 10,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 1
+  },
+  {
+    "url": "https://blogs.lxip.top",
+    "timeout": 10,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 1
+  },
+  {
+    "url": "https://w.lxip.top/",
+    "timeout": 10,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 0
+  },
+  {
+    "url": "https://running.lxip.top/",
+    "timeout": 10,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 0
+  },
+  {
+    "url": "https://www.fast.com",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 2
+  },
+  {
+    "url": "https://www.google.com",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 10,
+    "full_page": 2
+  }
+]
